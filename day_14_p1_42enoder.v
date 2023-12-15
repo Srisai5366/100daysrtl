@@ -16,7 +16,7 @@ module enco42(en,i,y);
   end
 endmodule
 
-Testbench:
+//Testbench:
 module tbx;
   reg [3:0]i;
   reg en;
